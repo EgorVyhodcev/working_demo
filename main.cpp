@@ -10,5 +10,6 @@ int main()
 	cout << s << endl;
 	p = a * b;
 	cout << p << endl;
+	cout << a - b << endl;
     return 0;
 }
